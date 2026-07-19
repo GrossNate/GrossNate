@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm currently looking for paid work as a software engineer. In my spare time, I'm working on [GovQL](https://govql.us), a GraphQL API to make US legislative data (congresspeople, legistlation, votes, etc.) easily queryable.
+
+## Badges
+
+I used to work at Google, and one of the fun things I miss about it was the "Moma badges." I ran across a [project](https://github.com/my-badges/my-badges) to add similar badges to GitHub, and figured I'd try it out:
+
+<!-- my-badges start -->
+<!-- my-badges end -->
 <!--
 **GrossNate/GrossNate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/GrossNate/requesthole/commit/04af86c5668104dda075b8c3658a76a1a3d7cfab">04af86c</a>: chore: Minor formatting fixes for left padding.
+- <a href="https://github.com/GrossNate/GrossNate/commit/3804ca6c9e713163edc229f2c246124278c95840">3804ca6</a>: chore: Adding a little more detail to README.md
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

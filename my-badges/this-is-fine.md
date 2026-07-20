@@ -13,6 +13,7 @@ Pull requests:
 - <a href="https://github.com/govql/govql/pull/86">#86</a>: fix: relocate Superpowers artifacts out of root docs/ to unblock deploy
 - <a href="https://github.com/govql/govql/pull/88">#88</a>: Pipeline DAG manifest, PIPELINE.md generator + --check drift validator
 - <a href="https://github.com/govql/govql/pull/90">#90</a>: feat(us-congress): bills connector core — Congress.gov fetch/load, raw_payloads, connector contract
+- <a href="https://github.com/govql/govql/pull/98">#98</a>: feat(bills): per-bill fan-out — cosponsors, subjects, summaries, detail, titles (task 0011)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

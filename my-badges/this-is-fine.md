@@ -15,6 +15,7 @@ Pull requests:
 - <a href="https://github.com/govql/govql/pull/90">#90</a>: feat(us-congress): bills connector core — Congress.gov fetch/load, raw_payloads, connector contract
 - <a href="https://github.com/govql/govql/pull/98">#98</a>: feat(bills): per-bill fan-out — cosponsors, subjects, summaries, detail, titles (task 0011)
 - <a href="https://github.com/govql/govql/pull/99">#99</a>: Refactor votes + legislators onto the connector contract (task 0012)
+- <a href="https://github.com/govql/govql/pull/107">#107</a>: feat: added nomination data to votes
 - <a href="https://github.com/chihacknight/govbot/pull/116">#116</a>: feat(fleet-monitor): fleet poller + metrics shipper (2/6)
 - <a href="https://github.com/chihacknight/govbot/pull/117">#117</a>: feat(fleet-monitor): orchestrator, hourly workflow + heartbeat (3/6)
 - <a href="https://github.com/chihacknight/govbot/pull/118">#118</a>: feat(fleet-monitor): log harvester, Loki shipper + watermark (4/6)
